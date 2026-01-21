@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Backend Microservices Project (Dockerized) 🚀
 
 ## Introduction 🌟
@@ -459,3 +460,7 @@ docker-compose up -d --build order-service
 ## License 📝
 
 This project is licensed under the MIT License.
+=======
+# springboot-kafka-microservices
+A demo for  incremental development 
+>>>>>>> 823ec1c09aa7630eae30e293d8bdefe08a037318
